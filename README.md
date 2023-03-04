@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**antoniacatrinel/antoniacatrinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<body>
+<h1 align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1&color=5470F7&repeat=false&width=435&lines=Hi+there!+I'm+Catrinel." alt="Typing SVG" /></a>
+</h1>
+<div align="left"> 
+  <a href="https://www.linkedin.com/in/antoniacatrineliliesi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:catrinel.iliesi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D31E40?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+</body>
+</html>
