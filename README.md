@@ -7,7 +7,7 @@
 <div align="left"> 
   <a href="https://www.linkedin.com/in/antoniacatrineliliesi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:catrinel.iliesi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D31E40?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+</div><br>
  <div align="left">
  <img align="left" src="https://komarev.com/ghpvc/?username=antoniacatrinel&style=flat-square&color=blue&label=views">
   </div>
